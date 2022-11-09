@@ -51,7 +51,7 @@ epub_show_urls = 'footnote'
 
 html_context = {
     "display_github": True, # Integrate GitHub
-    "github_repo": "eeholmes/readthedoc-test", # Repo name
+    "github_repo": "kamalrana7843/land", # Repo name
     "github_version": "main", # Version
     "conf_py_path": "docs/source/", # Path in the checkout to the docs root
 }
